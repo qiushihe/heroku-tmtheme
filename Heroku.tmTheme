@@ -9,27 +9,13 @@
 		<dict>
 			<key>settings</key>
 			<dict>
-				<key>background</key><string>#111115</string>
-				<key>foreground</key><string>#B6B4C2</string>
-				<key>caret</key><string>#ffffff</string>
-
-				<key>invisibles</key><string>#3B3A32</string>
-				
-				<key>lineHighlight</key><string>#292926</string>
-				<key>selection</key><string>#6A7381</string>
-				<key>findHighlight</key><string>#FFE792</string>
-				<key>findHighlightForeground</key><string>#000000</string>
-				<key>selectionBorder</key><string>#222218</string>
-				
-				<key>activeGuide</key><string>#9D550FB0</string>
-
-				<key>bracketsForeground</key><string>#9391ACA5</string>
-				<key>bracketsOptions</key><string>underline</string>
-
-				<key>bracketContentsForeground</key><string>#9391ACA5</string>
-				<key>bracketContentsOptions</key><string>underline</string>
-
-				<key>tagsOptions</key><string>stippled_underline</string>
+				<key>background</key><string>#111111</string>
+        <key>foreground</key><string>#B6B6B6</string>
+        <key>invisibles</key><string>#B6B6B63D</string>
+        <key>lineHighlight</key><string>#212121</string>
+        <key>selection</key><string>#696969</string>
+        <key>selectionBorder</key><string>#C1C1C1</string>
+        <key>caret</key><string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
