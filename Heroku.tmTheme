@@ -238,6 +238,81 @@
 			</dict>
 		</dict>
 
+		<!----------------------------------------------------------------------------------------------
+			Markdown
+		----------------------------------------------------------------------------------------------->
+
+		<dict>
+			<key>name</key><string>Markdown - Heading</string>
+			<key>scope</key><string>meta.block-level.markdown markup.heading.markdown - markup.quote.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#978AF9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Unline Code</string>
+			<key>scope</key><string>markup.raw.inline.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#D9903B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Code Block</string>
+			<key>scope</key><string>markup.raw.block.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#D9903B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Numbered List</string>
+			<key>scope</key><string>markup.list.numbered.markdown - markup.quote.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#78B1FA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Unnumbered List</string>
+			<key>scope</key><string>markup.list.unnumbered.markdown - markup.quote.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#78B1FA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Quote</string>
+			<key>scope</key><string>markup.quote.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#555555</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Separator</string>
+			<key>scope</key><string>meta.separator.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#9E1314</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Link/Image URL</string>
+			<key>scope</key><string>markup.underline.link.image.markdown, meta.link.reference.def.markdown, meta.link.inline.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#82CF3C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Bold</string>
+			<key>scope</key><string>markup.bold.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#78B1FA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key><string>Markdown - Italic</string>
+			<key>scope</key><string>markup.italic.markdown</string>
+			<key>settings</key><dict>
+				<key>foreground</key><string>#78B1FA</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>00ffa3c0-4bdf-11e2-bcfd-0800200c9a66</string>
